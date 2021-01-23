@@ -1,0 +1,38 @@
+.insert{
+    text-decoration:none;
+    display:block;
+    color: saddlebrown;
+}
+
+.insert:hover{
+    text-decoration:none;
+    display:block;
+    color: white;
+}
+
+.mua{
+    text-decoration:none;
+    display:block;
+    color: white;
+}
+
+.mua:hover{
+    text-decoration:none;
+    display:block;
+    color: white;
+}
+.footer-bottom-area{
+    background-color: buttonhighlight;
+    line-height:50px;
+}
+
+.buy{
+    text-decoration:none;
+    color:#e9ecef;
+}
+
+.buy:horver{
+    text-decoration:none;
+    color:#e9ecef;
+}
+
